@@ -1,1 +1,2 @@
-# lab-four
+# shop-task
+Lab four collaboration
